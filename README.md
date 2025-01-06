@@ -1,8 +1,11 @@
-# moonbit-binaries
+# moonbit-dist
 
 > Binaries archiving service for MoonBit programming language.
 
-[![Snap Schedule][ci-badge]][cicd] [![license][license-badge]](LICENSE) [![downloads][downloads-badge]][releases]
+[![Snap Schedule][ci-badge]][cicd]
+[![Snap Schedule Nighly][ci-badge-nightly]][cicd-nightly]
+[![license][license-badge]](LICENSE)
+[![downloads-nightly][downloads-badge-nightly]][releases]
 
 For more information about the MoonBit programming language, see [moonbitlang's website][moonbit-website].
 
@@ -33,8 +36,10 @@ For the license of the binaries/archives of MoonBit, please refer to its website
 [ci-badge]: https://github.com/chawyehsu/moonbit-binaries/actions/workflows/schedule.yml/badge.svg
 [cicd]: https://github.com/chawyehsu/moonbit-binaries/actions/workflows/schedule.yml
 [license-badge]: https://img.shields.io/github/license/chawyehsu/moonbit-binaries
+[ci-badge-nightly]: https://github.com/chawyehsu/moonbit-binaries/actions/workflows/schedule_nightly.yml/badge.svg
+[cicd-nightly]: https://github.com/chawyehsu/moonbit-binaries/actions/workflows/schedule_nightly.yml
 [moonbit-website]: https://moonbitlang.com/
-[releases]: https://github.com/chawyehsu/moonbit-binaries/releases
+[releases]: https://github.com/chawyehsu/moonbit-dist-nightly/releases
 [gh-pages]: https://github.com/chawyehsu/moonbit-binaries/tree/gh-pages
-[downloads-badge]: https://img.shields.io/github/downloads/chawyehsu/moonbit-binaries/total
+[downloads-badge-nightly]: https://img.shields.io/github/downloads/chawyehsu/moonbit-dist-nightly/total
 [Moonup]: https://github.com/chawyehsu/moonup
